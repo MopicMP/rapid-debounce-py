@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rapid-debounce-py"
+version = "1.0.0"
+description = "Rapid debounce function calls (thread-safe)"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+authors = [{name = "raccoonette"}]
+
+[project.urls]
+Homepage = "https://github.com/MopicMP/rapid-debounce-py"
