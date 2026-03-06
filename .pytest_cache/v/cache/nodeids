@@ -1,0 +1,5 @@
+[
+  "tests/test_rapid_debounce_py.py::TestPy::test_basic",
+  "tests/test_rapid_debounce_py.py::TestPy::test_empty",
+  "tests/test_rapid_debounce_py.py::TestPy::test_type_error"
+]
